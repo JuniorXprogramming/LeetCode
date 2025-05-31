@@ -1,4 +1,4 @@
-# This is problem name ContainsDuplicate 
+# Problem Name: Contains Duplicate
 
 **Dificult:** Easy
 
