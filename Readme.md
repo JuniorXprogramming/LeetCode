@@ -2,6 +2,19 @@
 
 This repository contains my solutions to various LeetCode problems. It serves as a personal archive to track my progress and improve my problem-solving skills in C#.
 
+---
+
+## 📚 Problem List
+
+| # | Title | Difficulty | Solution |
+|--:|:------|:-----------:|:--------:|
+| 1 | Two Sum | Easy | [View Solution](./TwoSum/README.md) |
+| 49 | Group Anagrams | Medium | [View Solution](./GroupAnagrams/README.md) |
+| 242 | Valid Anagram | Easy | [View Solution](./ValidAnagram/README.md) |
+| 217 | Contains Duplicate | Easy | [View Solution](./ContainsDuplicate/README.md) |
+
+---
+
 ## 📁 Folder Structure
 
 Each folder is named after the problem number and title, containing:
