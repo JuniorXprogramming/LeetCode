@@ -10,8 +10,8 @@ This repository contains my solutions to various LeetCode problems. It serves as
 |--:|:------|:-----------:|:--------:|
 | 1 | Two Sum | Easy | [View Solution](./LeetCodeSolutions/TwoSum/README.md) |
 | 49 | Group Anagrams | Medium | [View Solution](./GroupAnagrams/README.md) |
-| 242 | Valid Anagram | Easy | [View Solution](./ValidAnagram/README.md) |
-| 217 | Contains Duplicate | Easy | [View Solution](./ContainsDuplicate/README.md) |
+| 242 | Valid Anagram | Easy | [View Solution](./LeetCodeSolutions/ValidAnagram/README.md) |
+| 217 | Contains Duplicate | Easy | [View Solution](./Contains_Duplicate/README.md) |
 
 ---
 
