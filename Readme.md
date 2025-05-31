@@ -8,10 +8,10 @@ This repository contains my solutions to various LeetCode problems. It serves as
 
 | # | Title | Difficulty | Solution |
 |--:|:------|:-----------:|:--------:|
-| 1 | Two Sum | Easy | [View Solution](./LeetCodeSolutions/TwoSum/README.md) |
-| 49 | Group Anagrams | Medium | [View Solution](./GroupAnagrams/README.md) |
-| 242 | Valid Anagram | Easy | [View Solution](./ValidAnagram/Readme.md) |
-| 217 | Contains Duplicate | Easy | [View Solution](./Contains_Duplicate/README.md) |
+| 1 | Two Sum | Easy | [View Solution]([./LeetCodeSolutions/TwoSum/README.md](https://github.com/JuniorXprogramming/LeetCode/blob/main/LeetCodeSolutions/TwoSum/Readme.md)) |
+| 49 | Group Anagrams | Medium | [View Solution]([./GroupAnagrams/README.md](https://github.com/JuniorXprogramming/LeetCode/blob/main/LeetCodeSolutions/GroupAnagram/Readme.md)) |
+| 242 | Valid Anagram | Easy | [View Solution]([./ValidAnagram/Readme.md](https://github.com/JuniorXprogramming/LeetCode/blob/main/LeetCodeSolutions/ValidAnagram/Readme.md)) |
+| 217 | Contains Duplicate | Easy | [View Solution]([./Contains_Duplicate/README.md](https://github.com/JuniorXprogramming/LeetCode/blob/main/LeetCodeSolutions/Contains%20Duplicate/Readme.md)) |
 
 ---
 
