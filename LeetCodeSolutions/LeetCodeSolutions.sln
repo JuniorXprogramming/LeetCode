@@ -1,0 +1,54 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeSolutions", "LeetCodeSolutions.csproj", "{D0C89ADF-7C9A-76B7-A5DE-E97673F90F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "Contains Duplicate\ContainsDuplicate.csproj", "{9CFBCF19-8383-F51A-DA36-9F287CC84536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnagram", "GroupAnagram\GroupAnagram.csproj", "{5B7FD328-9A65-F358-E6C1-A1996D3B3D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrappingRaingWater", "TrappingRainWater\TrappingRaingWater.csproj", "{B24D2F82-A74B-FB82-8220-A2E7792F4C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{DA851323-FA36-DC58-2C19-34629E8911FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{19881A02-469D-D60D-F639-2B916BEEA996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0C89ADF-7C9A-76B7-A5DE-E97673F90F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C89ADF-7C9A-76B7-A5DE-E97673F90F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C89ADF-7C9A-76B7-A5DE-E97673F90F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C89ADF-7C9A-76B7-A5DE-E97673F90F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFBCF19-8383-F51A-DA36-9F287CC84536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFBCF19-8383-F51A-DA36-9F287CC84536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFBCF19-8383-F51A-DA36-9F287CC84536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFBCF19-8383-F51A-DA36-9F287CC84536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7FD328-9A65-F358-E6C1-A1996D3B3D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7FD328-9A65-F358-E6C1-A1996D3B3D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7FD328-9A65-F358-E6C1-A1996D3B3D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7FD328-9A65-F358-E6C1-A1996D3B3D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24D2F82-A74B-FB82-8220-A2E7792F4C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24D2F82-A74B-FB82-8220-A2E7792F4C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24D2F82-A74B-FB82-8220-A2E7792F4C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24D2F82-A74B-FB82-8220-A2E7792F4C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA851323-FA36-DC58-2C19-34629E8911FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA851323-FA36-DC58-2C19-34629E8911FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA851323-FA36-DC58-2C19-34629E8911FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA851323-FA36-DC58-2C19-34629E8911FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19881A02-469D-D60D-F639-2B916BEEA996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19881A02-469D-D60D-F639-2B916BEEA996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19881A02-469D-D60D-F639-2B916BEEA996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19881A02-469D-D60D-F639-2B916BEEA996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52C1CB6E-D364-45A5-A7C2-AC282876EF77}
+	EndGlobalSection
+EndGlobal
