@@ -33,6 +33,8 @@ as the pointers move inward, we keep track of the max on each side and accumulat
 - **Space Complexity:** O(1)
 
 This is an optimal solution that avoids using extra arrays.
+
+## Code (C#)
 ```csharp
 public class Solution {
     public int Trap(int[] height) {
