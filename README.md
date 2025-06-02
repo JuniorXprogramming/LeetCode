@@ -12,9 +12,9 @@ Two Sum | Easy | [View Solution](https://github.com/JuniorXprogramming/LeetCode/
 Group Anagrams | Medium | [View Solution](https://github.com/JuniorXprogramming/LeetCode/blob/main/LeetCodeSolutions/GroupAnagram/README.md) |
 Valid Anagram | Easy | [View Solution](https://github.com/JuniorXprogramming/LeetCode/blob/main/LeetCodeSolutions/ValidAnagram/README.md) |
 Contains Duplicate | Easy | [View Solution](https://github.com/JuniorXprogramming/LeetCode/blob/main/LeetCodeSolutions/Contains%20Duplicate/README.md) |
-Trapping Rain Water | Hard | [View Solution]() |
-Best Time to Buy and Sell Stock | Easy | [View Solution]() |
-Longest Substring Without Repeating Characters | Medium | [View Solution]() |
+Trapping Rain Water | Hard | [View Solution](https://github.com/JuniorXprogramming/LeetCode/blob/main/LeetCodeSolutions/TrappingRainWater/README.MD) |
+Best Time to Buy and Sell Stock | Easy | [View Solution](https://github.com/JuniorXprogramming/LeetCode/blob/main/LeetCodeSolutions/maxProfit/README.md) |
+Longest Substring Without Repeating Characters | Medium | [View Solution](https://github.com/JuniorXprogramming/LeetCode/blob/main/LeetCodeSolutions/longestSubstring/README.md) |
 ---
 
 ## 📁 Folder Structure
